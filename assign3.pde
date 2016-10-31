@@ -1,4 +1,4 @@
-//You should implement your assign3 here.
+
 final int gameStart = 1;
 final int gameRun = 2;
 final int enemy1 =3;
